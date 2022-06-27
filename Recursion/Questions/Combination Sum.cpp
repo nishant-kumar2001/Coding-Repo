@@ -1,6 +1,6 @@
 // Problem Link - https://leetcode.com/problems/combination-sum/
 
-Method 1
+// Method 1
 
 class Solution {
 public:
@@ -29,7 +29,7 @@ public:
     }
 };
 
-Method 2
+// Method 2
 
 class Solution {
 public:
